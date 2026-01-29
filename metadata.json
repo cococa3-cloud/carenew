@@ -1,0 +1,7 @@
+{
+  "name": "케어링 (Caring)",
+  "description": "시니어들의 두뇌 건강과 신체 활동을 돕는 종합 케어 서비스. 두뇌훈련, 신체활동, 마음공부, 나의 일기 기능을 제공합니다.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
